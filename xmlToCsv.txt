@@ -1,0 +1,3 @@
+id;manufacturer;screen;processor;ram;disc;graphic_card;os;disc_reader
+1;Asus;nan;nan;8GB;nan;nan;Windows 7 Home;Blu-Ray
+2;Dell;nan;nan;16GB;nan;nan;Windows Vista;brak

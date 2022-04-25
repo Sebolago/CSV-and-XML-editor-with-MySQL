@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <producent>Producent</producent>
+    <przekatna>Wielkosc matrycy</przekatna>
+    <rozdzielczosc>Rozdzielczosc</rozdzielczosc>
+    <matryca>Typ matrycy</matryca>
+    <dotykowy>Dotyk</dotykowy>
+    <procesor>Procesor</procesor>
+    <rdzeni>Liczba rdzeni</rdzeni>
+    <MHz>Taktowanie</MHz>
+    <RAM>RAM</RAM>
+    <dysk>Pojemnosc dysku</dysk>
+    <typ>Typ dysku</typ>
+    <grafika>Karta graficzna</grafika>
+    <GDDR>VRAM</GDDR>
+    <system>System operacyjny</system>
+    <naped>Naped optyczny</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Dell</producent>
+    <przekatna>"12"</przekatna>
+    <rozdzielczosc/>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>8GB</RAM>
+    <dysk>240GB</dysk>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 4000</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 7 Home</system>
+    <naped/>
+    <empty/>
+  </row>
+  <row>
+    <producent>Asus</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz/>
+    <RAM>16GB</RAM>
+    <dysk>120GB</dysk>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 5000</grafika>
+    <GDDR>1GB</GDDR>
+    <system/>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Fujitsu</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1920x1080</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>8</rdzeni>
+    <MHz>1900</MHz>
+    <RAM>24GB</RAM>
+    <dysk>500GB</dysk>
+    <typ>HDD</typ>
+    <grafika>intel HD Graphics 520</grafika>
+    <GDDR>1GB</GDDR>
+    <system>brak systemu</system>
+    <naped>Blu-Ray</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Huawei</producent>
+    <przekatna>"13"</przekatna>
+    <rozdzielczosc/>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2400</MHz>
+    <RAM>12GB</RAM>
+    <dysk>24GB</dysk>
+    <typ>HDD</typ>
+    <grafika>NVIDIA GeForce GTX 1050</grafika>
+    <GDDR/>
+    <system/>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>MSI</producent>
+    <przekatna>"17"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>3300</MHz>
+    <RAM>8GB</RAM>
+    <dysk>60GB</dysk>
+    <typ>SSD</typ>
+    <grafika>AMD Radeon Pro 455</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 8.1 Profesional</system>
+    <naped>DVD</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Dell</producent>
+    <przekatna/>
+    <rozdzielczosc>1280x800</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>8GB</RAM>
+    <dysk>240GB</dysk>
+    <typ>SSD</typ>
+    <grafika/>
+    <GDDR/>
+    <system>Windows 7 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Asus</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM/>
+    <dysk>120GB</dysk>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 5000</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 10 Home</system>
+    <naped/>
+    <empty/>
+  </row>
+  <row>
+    <producent>Fujitsu</producent>
+    <przekatna>"15"</przekatna>
+    <rozdzielczosc>1920x1080</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>8</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>24GB</RAM>
+    <dysk>500GB</dysk>
+    <typ>HDD</typ>
+    <grafika>intel HD Graphics 520</grafika>
+    <GDDR/>
+    <system>brak systemu</system>
+    <naped>Blu-Ray</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"13"</przekatna>
+    <rozdzielczosc>1366x768</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>12GB</RAM>
+    <dysk>24GB</dysk>
+    <typ>HDD</typ>
+    <grafika>NVIDIA GeForce GTX 1050</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 10 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Sony</producent>
+    <przekatna>"16"</przekatna>
+    <rozdzielczosc/>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>8GB</RAM>
+    <dysk/>
+    <typ/>
+    <grafika>AMD Radeon Pro 455</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 7 Profesional</system>
+    <naped>DVD</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"12"</przekatna>
+    <rozdzielczosc>1280x800</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni/>
+    <MHz>2120</MHz>
+    <RAM/>
+    <dysk/>
+    <typ/>
+    <grafika>intel HD Graphics 4000</grafika>
+    <GDDR>1GB</GDDR>
+    <system/>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni/>
+    <MHz/>
+    <RAM/>
+    <dysk/>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 5000</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 10 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Fujitsu</producent>
+    <przekatna>"15"</przekatna>
+    <rozdzielczosc>1920x1080</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>8</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>24GB</RAM>
+    <dysk>500GB</dysk>
+    <typ>HDD</typ>
+    <grafika>intel HD Graphics 520</grafika>
+    <GDDR/>
+    <system>brak systemu</system>
+    <naped>Blu-Ray</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Huawei</producent>
+    <przekatna>"13"</przekatna>
+    <rozdzielczosc>1366x768</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>3000</MHz>
+    <RAM/>
+    <dysk>24GB</dysk>
+    <typ>HDD</typ>
+    <grafika>NVIDIA GeForce GTX 1050</grafika>
+    <GDDR/>
+    <system>Windows 10 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>MSI</producent>
+    <przekatna>"17"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>9999</MHz>
+    <RAM>8GB</RAM>
+    <dysk>60GB</dysk>
+    <typ>SSD</typ>
+    <grafika>AMD Radeon Pro 455</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 7 Profesional</system>
+    <naped/>
+    <empty/>
+  </row>
+  <row>
+    <producent>Huawei</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc/>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2200</MHz>
+    <RAM>8GB</RAM>
+    <dysk>16GB</dysk>
+    <typ>HDD</typ>
+    <grafika>NVIDIA GeForce GTX 1080</grafika>
+    <GDDR/>
+    <system/>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>MSI</producent>
+    <przekatna>"17"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>3300</MHz>
+    <RAM>8GB</RAM>
+    <dysk>60GB</dysk>
+    <typ>SSD</typ>
+    <grafika>AMD Radeon Pro 455</grafika>
+    <GDDR>1GB</GDDR>
+    <system/>
+    <naped/>
+    <empty/>
+  </row>
+  <row>
+    <producent>Asus</producent>
+    <przekatna/>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni>2</rdzeni>
+    <MHz>3200</MHz>
+    <RAM>16GB</RAM>
+    <dysk>320GB</dysk>
+    <typ>HDD</typ>
+    <grafika/>
+    <GDDR/>
+    <system>Windows 7 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Asus</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM/>
+    <dysk>120GB</dysk>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 5000</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 10 Profesional</system>
+    <naped/>
+    <empty/>
+  </row>
+  <row>
+    <producent>Fujitsu</producent>
+    <przekatna>"14"</przekatna>
+    <rozdzielczosc>1280x800</rozdzielczosc>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>8</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>24GB</RAM>
+    <dysk>500GB</dysk>
+    <typ>HDD</typ>
+    <grafika>intel HD Graphics 520</grafika>
+    <GDDR/>
+    <system>brak systemu</system>
+    <naped>Blu-Ray</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"12"</przekatna>
+    <rozdzielczosc>1600x900</rozdzielczosc>
+    <matryca/>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>12GB</RAM>
+    <dysk>24GB</dysk>
+    <typ>HDD</typ>
+    <grafika>NVIDIA GeForce GTX 1050</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 8.1 Home</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Sony</producent>
+    <przekatna>"11"</przekatna>
+    <rozdzielczosc/>
+    <matryca>blyszczaca</matryca>
+    <dotykowy>tak</dotykowy>
+    <procesor>intel i7</procesor>
+    <rdzeni>4</rdzeni>
+    <MHz>2800</MHz>
+    <RAM>8GB</RAM>
+    <dysk/>
+    <typ/>
+    <grafika>AMD Radeon Pro 455</grafika>
+    <GDDR>1GB</GDDR>
+    <system>Windows 7 Profesional</system>
+    <naped>brak</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"13"</przekatna>
+    <rozdzielczosc>1366x768</rozdzielczosc>
+    <matryca/>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i5</procesor>
+    <rdzeni/>
+    <MHz>2120</MHz>
+    <RAM/>
+    <dysk/>
+    <typ/>
+    <grafika>intel HD Graphics 4000</grafika>
+    <GDDR>2GB</GDDR>
+    <system/>
+    <naped>DVD</naped>
+    <empty/>
+  </row>
+  <row>
+    <producent>Samsung</producent>
+    <przekatna>"15"</przekatna>
+    <rozdzielczosc>1920x1080</rozdzielczosc>
+    <matryca>matowa</matryca>
+    <dotykowy>nie</dotykowy>
+    <procesor>intel i9</procesor>
+    <rdzeni/>
+    <MHz/>
+    <RAM/>
+    <dysk/>
+    <typ>SSD</typ>
+    <grafika>intel HD Graphics 4000</grafika>
+    <GDDR>2GB</GDDR>
+    <system>Windows 10 Profesional</system>
+    <naped>Blu-Ray</naped>
+    <empty/>
+  </row>
+</data>
